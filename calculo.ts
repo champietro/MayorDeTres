@@ -7,5 +7,6 @@ btnEnv.addEventListener("click", () => {
       if ingresado <= numeroMax{
         numeroMax= ingresado;
       }
+    }
     console.log("El número mayor es: ", numeroMax);
 });
